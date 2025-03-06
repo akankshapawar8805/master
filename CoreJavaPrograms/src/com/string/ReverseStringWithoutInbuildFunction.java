@@ -1,5 +1,6 @@
 package com.string;
 
+// Reverse string without using inbuild function
 public class ReverseStringWithoutInbuildFunction {
 	
 	public String ReverseString(String input) {
